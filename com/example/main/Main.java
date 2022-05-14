@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello Ukraine!");
         System.out.println("I am Andrew");
         String name = "Andrew";
+        int age = 35;
     }
 }
