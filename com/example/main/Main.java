@@ -8,5 +8,6 @@ public class Main {
         String name = "Andrew";
         int age = 35;
         System.out.println("Name: " + name + " Age: " + age);
+        int [] arr = {1,2,3,4,5,6,7,8,9};
     }
 }
