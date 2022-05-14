@@ -7,5 +7,6 @@ public class Main {
         System.out.println("I am Andrew");
         String name = "Andrew";
         int age = 35;
+        System.out.println("Name: " + name + " Age: " + age);
     }
 }
